@@ -1,0 +1,12 @@
+requests
+numpy
+pandas
+pydeck
+streamlit
+Seaborn 
+plotly
+matplot.lib 
+pyplot
+keras
+tensorflow = 2.1
+sklearn 
