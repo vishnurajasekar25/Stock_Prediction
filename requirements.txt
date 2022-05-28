@@ -12,4 +12,4 @@ tensorflow==2.5.0
 keras==2.5.0rc0
 matplotlib==3.1.1 
 scikit_learn==0.24.2
-PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION=python
+protobuf==3.20
